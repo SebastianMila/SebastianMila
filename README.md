@@ -1,5 +1,6 @@
 # Hello
 I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently working with Java on backend and React on frontend. I take part in every phase of development: analysis, design, implementation, deployment and maintenance.
+
 🔭 I’m currently working in [PTM Soft](https://ptmsoft.pl/) on few small web apps four our clients and large intelligent transportation system.
 
 🌱 I love reading IT books and listening to podcasts.

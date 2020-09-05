@@ -1,7 +1,10 @@
 # Hello
-I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently working with Java on backend and React on frontend.
-
+I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently working with Java on backend and React on frontend. I take part in every phase of development: analysis, design, implementation, deployment and maintenance.
 🔭 I’m currently working in [PTM Soft](https://ptmsoft.pl/) on few small web apps four our clients and large intelligent transportation system.
+
+🌱 I love reading IT books and listening to podcasts.
+
+⚡ In my free time i'm playing Path of Exile, riding a bike, reading books or chilling in the countryside.
 
 ## My tech stack
 <table>
@@ -60,7 +63,8 @@ I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently wor
         <img height="64px" src="https://cdn.svgporn.com/logos/grafana.svg">
       </td>
       <td width="20%" align="center">
-        <br/>
+        <span>Jenkins</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jenkins.svg">
       </td>
       <td width="20%" align="center">
        <br/>
@@ -71,3 +75,20 @@ I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently wor
     </tr>
   </tbody>
 </table>
+
+## My favorite books
+All my books: [lubimyczytac.pl](https://lubimyczytac.pl/profil/1740101/Sebastian)
+* building list in progress...
+
+## My favorite podcasts
+* [devtalk.pl](https://devtalk.pl/)
+* [Better software design.pl](https://bettersoftwaredesign.pl/)
+* [devEnv](https://devenv.pl/podcast/)
+* [Porozmawiajmy o IT](https://porozmawiajmyoit.pl/)
+* [Biznes w IT](https://piotrbucki.pl/podcasty)
+* [Mała wielka firma](https://malawielkafirma.pl/)
+* [Retrospektywa](https://www.retrospektywa.com/)
+
+## Where to find me
+* [LinkedIn](https://www.linkedin.com/in/sebastian-mila-74a4631b3/)
+* [Instagram](https://www.instagram.com/sebamila/)

@@ -5,7 +5,13 @@ I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently wor
 
 🌱 I love reading IT books and listening to podcasts.
 
+:books: Courses
+
 ⚡ In my free time i'm playing Path of Exile, riding a bike, reading books or chilling in the countryside.
+
+## Courses
+* [Droga Nowoczesnego Architekta](https://droganowoczesnegoarchitekta.pl/) - in progress
+* [SmartTesting](https://smarttesting.pl/) - waiting for first lessons :)
 
 ## My tech stack
 <table>

@@ -10,8 +10,8 @@ I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently wor
 ⚡ In my free time i'm playing Path of Exile, riding a bike, reading books or chilling in the countryside.
 
 ## Courses
-* [Droga Nowoczesnego Architekta](https://droganowoczesnegoarchitekta.pl/) - in progress
-* [SmartTesting](https://smarttesting.pl/) - waiting for first lessons :)
+* [Droga Nowoczesnego Architekta](https://droganowoczesnegoarchitekta.pl/) - done :)
+* [SmartTesting](https://smarttesting.pl/) - in progress
 
 ## My tech stack
 <table>
@@ -95,6 +95,7 @@ All my books: [lubimyczytac.pl](https://lubimyczytac.pl/profil/1740101/Sebastian
 * [Biznes w IT](https://piotrbucki.pl/podcasty)
 * [Mała wielka firma](https://malawielkafirma.pl/)
 * [Retrospektywa](https://www.retrospektywa.com/)
+* [Podcast Oli Kunysz](https://www.spreaker.com/show/podcast-oli-kunysz)
 
 ## Where to find me
 * [LinkedIn](https://www.linkedin.com/in/sebastian-mila-74a4631b3/)

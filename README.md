@@ -96,6 +96,10 @@ All my books: [lubimyczytac.pl](https://lubimyczytac.pl/profil/1740101/Sebastian
 * [Mała wielka firma](https://malawielkafirma.pl/)
 * [Retrospektywa](https://www.retrospektywa.com/)
 * [Podcast Oli Kunysz](https://www.spreaker.com/show/podcast-oli-kunysz)
+* [Devsession](https://devsession.pl/)
+* [Piątki na produkcji](https://www.youtube.com/channel/UCkv21uaELm8MTdV1L7Qm9ww)
+* [Ostra Piła](https://ostrapila.pl/)
+* [Patoarchitekcji](https://patoarchitekci.io/)
 
 ## Where to find me
 * [LinkedIn](https://www.linkedin.com/in/sebastian-mila-74a4631b3/)

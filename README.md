@@ -1,17 +1,18 @@
 # Hello
 I'm Sebastian Mila from Cracow and I'm a full stack developer. I'm currently working with Java on backend and React on frontend. I take part in every phase of development: analysis, design, implementation, deployment and maintenance.
 
-🔭 I’m currently working in [PTM Soft](https://ptmsoft.pl/) on few small web apps four our clients and large intelligent transportation system.
+🔭 I’m currently working in [PTM Soft](https://ptmsoft.pl/) on few small web apps for our clients and large intelligent transportation system.
 
 🌱 I love reading IT books and listening to podcasts.
-
-:books: Courses
 
 ⚡ In my free time i'm playing Path of Exile, riding a bike, reading books or chilling in the countryside.
 
 ## Courses
 * [Droga Nowoczesnego Architekta](https://droganowoczesnegoarchitekta.pl/) - done :)
-* [SmartTesting](https://smarttesting.pl/) - in progress
+* [SmartTesting](https://smarttesting.pl/) - done :)
+* [Architektura na froncie](https://architekturanafroncie.pl/) - in progress..
+* [Kubernetes Maestro](https://kubernetesmaestro.pl/) - in progress..
+* [Legacy Fighter](https://legacyfighter.pl/) - waiting for release
 
 ## My tech stack
 <table>
@@ -88,18 +89,16 @@ All my books: [lubimyczytac.pl](https://lubimyczytac.pl/profil/1740101/Sebastian
 * building list in progress...
 
 ## My favorite podcasts
-* [devtalk.pl](https://devtalk.pl/)
 * [Better software design.pl](https://bettersoftwaredesign.pl/)
+* [devtalk.pl](https://devtalk.pl/)
 * [devEnv](https://devenv.pl/podcast/)
 * [Porozmawiajmy o IT](https://porozmawiajmyoit.pl/)
-* [Biznes w IT](https://piotrbucki.pl/podcasty)
 * [Mała wielka firma](https://malawielkafirma.pl/)
 * [Retrospektywa](https://www.retrospektywa.com/)
 * [Podcast Oli Kunysz](https://www.spreaker.com/show/podcast-oli-kunysz)
-* [Devsession](https://devsession.pl/)
 * [Piątki na produkcji](https://www.youtube.com/channel/UCkv21uaELm8MTdV1L7Qm9ww)
-* [Ostra Piła](https://ostrapila.pl/)
 * [Patoarchitekcji](https://patoarchitekci.io/)
+* [Finanse bardzo osobiste](https://marciniwuc.com/category/podcast/)
 
 ## Where to find me
 * [LinkedIn](https://www.linkedin.com/in/sebastian-mila-74a4631b3/)
